@@ -1,2 +1,1 @@
-<img align="right" alt="coding" width="400" src="c:\Users\ALIET\Downloads\1_VMmvImch6VU5pc2VktY1uw.gif"
-
+<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGIT64okJa6X0Gnq-sCk7jzEeViVmcgmgUQ&s">
